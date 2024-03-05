@@ -19,5 +19,5 @@ Tools used:
 
 **How to run the notebook**
 
-Open the notebook in a Google Colab environment.
-Execute each code cell sequentially.
+1. Open the notebook in a Google Colab environment.
+2. Execute each code cell sequentially.
