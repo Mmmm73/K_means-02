@@ -13,7 +13,7 @@ Tools used:
 
 **Procedure**
 
-1. A dataframe is created from the cluster analysis dataset data.
+1. A dataframe is created from the cluster analysis dataset.
 2. K-means (clustering) algorithm is trained on the data.
 3. Predictons are made using the model.
 
