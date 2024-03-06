@@ -4,7 +4,7 @@
 
 This is an implementation of the K-means algorithm on the 'cluster analysis dataset'.
 
-Data from the cluster analysis dataset is clustered into 2 clusters.
+Data from the cluster analysis dataset is clustered into 3 clusters.
 
 Tools used:
 1. Pandas library.
